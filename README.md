@@ -6,7 +6,6 @@
 
 Skills: Flutter / Python / C 
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning AI 
 - 📫 How to reach me: https://www.linkedin.com/in/eray-celik/ 
 
