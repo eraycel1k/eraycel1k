@@ -1,6 +1,6 @@
 ### Hi there 👋, Eray Çelik
 #### Flutter Duayeni
-![Flutter Duayeni](https://i.hizliresim.com/jckjuzn.jpg)
+![Flutter Duayeni](https://i.hizliresim.com/9c3mdkk.gif)
 
 🙏🙏🙏
 
