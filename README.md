@@ -1,6 +1,6 @@
 ### Hi there 👋, Eray Çelik
 #### Flutter Duayeni
-![Flutter Duayeni](https://i.hizliresim.com/9sstez7.jpg)
+![Flutter Hacısı olma yolunda...](https://i.hizliresim.com/9sstez7.jpg)
 
 🙏🙏🙏
 
