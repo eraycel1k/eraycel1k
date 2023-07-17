@@ -1,7 +1,6 @@
 ### Hi there 👋, Eray Çelik
 #### -----
-![Coding Hacısı olma yolunda...]
-(https://i.hizliresim.com/9sstez7.jpg)
+![Coding Hacısı olma yolunda...](https://i.hizliresim.com/9sstez7.jpg)
 
 🙏🙏🙏
 
