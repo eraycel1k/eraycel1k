@@ -5,7 +5,6 @@
 
 🙏🙏🙏
 
-Skills: Asp.Net / Python /
 
 
 
